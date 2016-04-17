@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="get_videos">Videos</string>
+    <string name="get_articles">Articles</string>
+</resources>
